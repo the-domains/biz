@@ -1,18 +1,30 @@
-analytics: {}
+name: biz
+purpose: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+opengraph: {}
 color:
-  brandColors:
-    - '#B8C0A8'
-    - '#302800'
-    - '#909040'
-    - '#C0B000'
-    - '#000000'
+  saturation: 0.531034
   brandStrength: 0.615416
   lightness: 0.811505
+  brandColors:
+    - '#3A2718'
+    - '#DFBEA3'
+    - '#6D4A32'
+    - '#B3885D'
+    - '#B4542F'
   rhythmicContrast: 0.123558
-  saturation: 0.531034
+typography_spectrum: 0.1819545392695116
 cta: {}
+analytics: {}
 layout_spectrum: 0.311677
-name: biz
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.18195453926951155
