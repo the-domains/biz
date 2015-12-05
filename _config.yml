@@ -1,5 +1,7 @@
 name: biz
-purpose: {}
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.67188
 collections:
   - index:
       path: /
@@ -12,19 +14,30 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-opengraph: {}
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.531034
-  brandStrength: 0.615416
-  lightness: 0.811505
   brandColors:
     - '#3A2718'
     - '#DFBEA3'
     - '#6D4A32'
     - '#B3885D'
     - '#B4542F'
+  brandStrength: 0.615416
+  lightness: 0.811505
+  saturation: 0.531034
   rhythmicContrast: 0.123558
-typography_spectrum: 0.1819545392695116
-cta: {}
-analytics: {}
-layout_spectrum: 0.311677
+purpose:
+  - name: null
+    item: null
+    url: null
