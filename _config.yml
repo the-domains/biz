@@ -1,7 +1,7 @@
 name: biz
 favicon: null
-layout_spectrum: 0.22564
-typography_spectrum: 0.80975
+layout_spectrum: 0.3082
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -28,15 +28,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3A2718'
-    - '#DFBEA3'
-    - '#6D4A32'
-    - '#B3885D'
-    - '#B4542F'
-  brandStrength: 0
-  lightness: 0.25
+    - '#7b6a52'
+    - '#948c74'
+    - '#d9ceb1'
+    - '#98b2b7'
+    - '#c2b99e'
+  brandStrength: 1
+  lightness: 1
   saturation: 0.531034
-  rhythmicContrast: 0.123558
+  rhythmicContrast: 0
 purpose:
   - name: null
     item: null
