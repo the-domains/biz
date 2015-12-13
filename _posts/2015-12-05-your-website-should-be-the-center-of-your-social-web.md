@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T02:37:44.568Z'
-dateModified: '2015-12-13T02:37:38.576Z'
+datePublished: '2015-12-13T02:48:43.434Z'
+dateModified: '2015-12-13T02:48:39.438Z'
 title: Your website is the center of your social activity
 author: []
 sourcePath: _posts/2015-12-05-your-website-should-be-the-center-of-your-social-web.md
@@ -22,6 +22,6 @@ url: your-website-should-be-the-center-of-your-social-web/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61c832b-23e5-486f-82b8-ab7293017ac4.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa9c64b96a7bdf72d8c71c6c5b423ad646df7110.png)
 
 # Your website is the center of your social activity
