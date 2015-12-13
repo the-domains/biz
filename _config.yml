@@ -1,6 +1,6 @@
 name: biz
 favicon: null
-layout_spectrum: 0.01113
+layout_spectrum: 0.45161
 typography_spectrum: 1
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#d9ceb1'
     - '#98b2b7'
     - '#c2b99e'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 0.531034
   rhythmicContrast: 0
