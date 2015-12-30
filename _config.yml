@@ -1,5 +1,7 @@
-favicon: null
-name: biz
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -21,9 +23,9 @@ purpose:
     url: null
     item: null
 color:
-  saturation: 1
-  lightness: 0
+  saturation: 0
   brandStrength: 0
+  lightness: 1
   brandColors:
     - '#fff6ca'
     - '#cefffe'
@@ -32,12 +34,10 @@ color:
     - '#e9e9e9'
   rhythmicContrast: 0.3356606
 typography_spectrum: 0.61427
-layout_spectrum: 0.7524167
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.7524167
+favicon: null
+name: biz
