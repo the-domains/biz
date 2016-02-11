@@ -1,4 +1,4 @@
-layout_spectrum: 0.2615467
+name: biz
 opengraph:
   image: null
   type: null
@@ -9,26 +9,26 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose:
   - name: null
     url: null
     item: null
 color:
   saturation: 1
-  lightness: 1
   brandStrength: 0
+  lightness: 1
   brandColors:
-    - '#060605'
-    - '#665D54'
-    - '#A49889'
-    - '#9278E0'
-    - '#FF4C6E'
+    - '#0E0E0C'
+    - '#FFFFFF'
+    - '#414139'
+    - '#9A876E'
+    - '#C6B49B'
   rhythmicContrast: 1
 typography_spectrum: 0.61427
 cta:
@@ -40,4 +40,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: biz
+layout_spectrum: 0.2615467
