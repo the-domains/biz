@@ -4,7 +4,7 @@
         <description><![CDATA[biz]]></description>
         <link>https://thegrid.ai/biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 06:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 22:22:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 13 Dec 2015 02:40:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How I Invest.]]></title>
+            <description><![CDATA[<article><h1>How I Invest.</h1><p>Companies making the world suck less. Ones that collapse complicated multi-step processes into complete, defensible, magical-seeming solutions to important and difficult problems. These sometimes are operationally complex businesses that go beyond software-only solutions (bits) and incorporate real-world operations along with technology breakthroughs (bits + atoms). Quantitative & operationally focused founders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/767fe5f54725cea5eff976bd729531aef8d05109.jpg"></article>]]></description>
+            <link>https://thegrid.ai/biz/how-i-invest/index.html</link>
+            <guid isPermaLink="false">e823a571-5b0e-4f59-891b-f35239329312</guid>
+            <pubDate>Thu, 11 Feb 2016 22:21:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The New UI for SaaS - The Question]]></title>
-            <description><![CDATA[<article><h1>The New UI for SaaS - The Question</h1><p>Quick. Casual. Human. Chat differs from other forms of communication. Because of these three attributes, chat seems to be reemerging as a potentially disruptive user interface for both consumers and business users. The typical teenages emits more than 3000 text messages per month, not to mention messages on other networks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe4d9d4714998b386778543889a9d563cbb71bfe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The New UI for SaaS - The Question</h1><p>Quick. Casual. Human. Chat differs from other forms of communication. Because of these three attributes, chat seems to be reemerging as a potentially disruptive user interface for both consumers and business users. The typical teenages emits more than 3000 text messages per month, not to mention messages on other networks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2f559a0d4aea71c8842a2439c0db4394320d528.jpg"></article>]]></description>
             <link>http://tomtunguz.com/ai-powered-chat-as-the-new-ui/</link>
             <guid isPermaLink="false">c6933120-a47e-4af8-a4db-d30c193c675c</guid>
             <pubDate>Thu, 11 Feb 2016 06:18:00 GMT</pubDate>
