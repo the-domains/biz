@@ -4,7 +4,7 @@
         <description><![CDATA[biz]]></description>
         <link>https://thegrid.ai/biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 04:35:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/biz/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">c999eb62-d672-48b8-939f-114350437081</guid>
             <pubDate>Sun, 13 Dec 2015 02:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[InSync in Bay Area / Silicon Valley (expanded)]]></title>
+            <description><![CDATA[<h1>InSync in Bay Area / Silicon Valley (expanded)</h1>]]></description>
+            <link>https://www.google.com/maps/d/u/0/viewer?mid=z1vUXprI0G6E.kVc-cj0lMY0o</link>
+            <guid isPermaLink="false">31f2f161-730d-4591-8daa-bf07e22ac30c</guid>
+            <pubDate>Tue, 29 Mar 2016 04:35:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/biz/your-website-should-be-the-center-of-your-social-web/index.html</link>
             <guid isPermaLink="false">8aaa30eb-aa3e-46ec-921a-505883f34473</guid>
             <pubDate>Sun, 13 Dec 2015 02:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On The Grid everyone is in business, one way or another, selling product, solutions or credibility.]]></title>
-            <description><![CDATA[<h1>On The Grid everyone is in business, one way or another, selling product, solutions or credibility.</h1>]]></description>
-            <link>https://thegrid.ai/biz/efa70037-9e89-4073-8577-51c3598b91ee/index.html</link>
-            <guid isPermaLink="false">efa70037-9e89-4073-8577-51c3598b91ee</guid>
-            <pubDate>Sun, 13 Dec 2015 02:39:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
