@@ -17,15 +17,20 @@ keywords:
   - software
   - text
   - startups
-description: 'Quick. Casual. Human. Chat differs from other forms of communication. Because of these three attributes, chat seems to be reemerging as a potentially disruptive user interface for both consumers and business users. The typical teenages emits more than 3000 text messages per month, not to mention messages on other networks.'
+description: >-
+  Quick. Casual. Human. Chat differs from other forms of communication. Because
+  of these three attributes, chat seems to be reemerging as a potentially
+  disruptive user interface for both consumers and business users. The typical
+  teenages emits more than 3000 text messages per month, not to mention messages
+  on other networks.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://tomtunguz.com/ai-powered-chat-as-the-new-ui/'
 title: The New UI for SaaS - The Question
-datePublished: '2016-02-11T06:18:00.698Z'
-dateModified: '2016-02-08T04:19:14.357Z'
+datePublished: '2016-06-22T14:33:27.841Z'
+dateModified: '2016-06-22T14:33:27.460Z'
 sourcePath: _posts/2016-02-11-the-new-ui-for-saas-the-question.md
-published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
